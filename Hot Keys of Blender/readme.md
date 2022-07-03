@@ -10,7 +10,6 @@
 6. `R` - Rotate the selected object.
 7. `S` - Scale up or down the selected object.
 8. `alt + RGS` - Undo any scaling, rotation or object selected (location wrt viewport origin).
-9. 
-10. aana
+9. akcnakcna
 11. 
 
